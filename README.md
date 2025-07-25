@@ -8,7 +8,7 @@ This powershell script allows you to create and edit YAML Recipy files, that are
     <li>Live Preview Window.</li>
     <li>Quick add action buttons.</li>
     <li>Import premade or custom yaml files.</li>
-    <li>generate recipe directly to a yaml file.</li>
+    <li>Save the generated recipe code, directly into a yaml file.</li>
 </ul>
 
 <h2>** Preview **</h2>
