@@ -1,6 +1,6 @@
 <h1>*** TXAdmin YAML Recipy Creator ***</h1>
 
-This powershell script that allows you to create and edit YAML Recipy files to be used for server deployment using TXAdmin
+This powershell script allows you to create and edit YAML Recipy files, that are used for FiveM game server deployments using TXAdmin
 
 
 <h2>** Features: **</h2>
